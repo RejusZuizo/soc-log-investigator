@@ -1,0 +1,10 @@
+{
+  "brute_force_threshold": 10,
+  "brute_force_window_minutes": 60,
+  "spray_min_users": 3,
+  "success_after_failures_threshold": 5,
+  "port_scan_min_ports": 10,
+  "port_scan_window_minutes": 30,
+  "repeated_block_threshold": 20,
+  "top_n": 5
+}

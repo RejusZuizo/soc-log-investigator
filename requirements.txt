@@ -1,0 +1,3 @@
+# No third-party packages needed.
+# The project only uses the Python standard library (3.8 or newer):
+# argparse, collections, csv, datetime, ipaddress, json, pathlib, unittest
